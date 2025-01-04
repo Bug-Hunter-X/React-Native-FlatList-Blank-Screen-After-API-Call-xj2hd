@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle bug in React Native where a FlatList component fails to render data after a successful API call. The issue is intermittent and doesn't produce obvious error messages, making debugging challenging.  The solution highlights strategies for identifying and preventing this type of rendering problem.
